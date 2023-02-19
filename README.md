@@ -1,7 +1,5 @@
 # Hey, I am Ibragim! Great to see you here! <img src="/src/wave.gif" width="30px">
 
-<img src="/src/header_.png">
-
 
 I am currently learning React and Typescript, I also know MUI and CSS
 
