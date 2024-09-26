@@ -1,7 +1,7 @@
 # Hey, I am Ibragim! Great to see you here! <img src="/src/wave.gif" width="30px">
 
 
-I am currently learning React and Typescript, I also know MUI and CSS
+The best in React and Typescript
 
 Find out more about me & feel free to connect with me here:
 
